@@ -1,6 +1,6 @@
 # init.vim
 My Neovim configuration
-[[config_working_screenshot.png]]
+![Folded Config](config_working_screenshot.png)
 
 ## Requirements
 * [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim): Latest Stable build preferably
