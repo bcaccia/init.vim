@@ -14,7 +14,7 @@ My Neovim configuration
 
 ## Config Notes
 Folding is used to break the config into sections. If the file is not folded when opened, use the default `zM` shortcut to fold all.
-[[folded_config.png]]
+![Folded Config](folded_config.png)
 
 ## Custom Keyboard Mappings
 Keyboard mappings are mostly inspired by Spacemacs.
