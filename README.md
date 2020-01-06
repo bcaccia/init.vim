@@ -30,7 +30,7 @@ Keyboard mappings are mostly inspired by Spacemacs.
 | <leader>w. | split window horizontal |
 | <leader>w/ | split window vertical |
 | <leader>wd | close split |
-| <C-k> | move up a split |
+| `<C-k>` | move up a split |
 | <C-j> | move down a split |
 | <C-h> | move left a split |
 | <C-l> | move right a split |
