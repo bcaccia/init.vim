@@ -1,5 +1,6 @@
 # init.vim
 My Neovim configuration
+[[config_working_screenshot.png]]
 
 ## Requirements
 * [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim): Latest Stable build preferably
@@ -13,6 +14,7 @@ My Neovim configuration
 
 ## Config Notes
 Folding is used to break the config into sections. If the file is not folded when opened, use the default `zM` shortcut to fold all.
+[[folded_config.png]]
 
 ## Custom Keyboard Mappings
 Keyboard mappings are mostly inspired by Spacemacs.
