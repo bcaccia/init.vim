@@ -17,7 +17,7 @@ Folding is used to break the config into sections. If the file is not folded whe
 ## Custom Keyboard Mappings
 Keyboard mappings are mostly inspired by Spacemacs.
 
-**Leader Key:** <SPACE>
+**Leader Key:** `<SPACE>`
 
 | Shortcut  | Description |
 | ------------- | ------------- |
