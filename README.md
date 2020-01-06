@@ -21,35 +21,35 @@ Keyboard mappings are mostly inspired by Spacemacs.
 
 | Shortcut  | Description |
 | ------------- | ------------- |
-| <leader>q  | quit  |
-| <leader>bd  | close buffer  |
-| <leader>fs | save buffer |
-| <leader>fe| open netrw file browser |
-| <leader>ve | open vimrc |
-| <leader>vr | reload vimrc |
-| <leader>w. | split window horizontal |
-| <leader>w/ | split window vertical |
-| <leader>wd | close split |
+| `<leader>q`  | quit  |
+| `<leader>bd`  | close buffer  |
+| `<leader>fs` | save buffer |
+| `<leader>fe` | open netrw file browser |
+| `<leader>ve` | open vimrc |
+| `<leader>vr` | reload vimrc |
+| `<leader>w.` | split window horizontal |
+| `<leader>w/` | split window vertical |
+| `<leader>wd` | close split |
 | `<C-k>` | move up a split |
-| <C-j> | move down a split |
-| <C-h> | move left a split |
-| <C-l> | move right a split |
-| <leader>M | maximize a split |
-| <leader>m | minimize a split |
-| <leader>ff | FZF file search cwd |
-| <leader>fh | FZF file search ~ |
-| <leader>fw | FZF file search ~/Dropbox/wiki/ |
-| <leader>bb | FZF buffer search |
-| <leader>; | FZF lines search |
-| <leader>o | FZF btags search |
-| <leader>O | FZF tags search |
-| <leader>? | FZF history search |
-| <leader>jj | easymotion move to char |
-| <leader>jl | easymotion move to line |
-| <leader>jw | easymotion move to word |
-| <leader>gs | vim-fugitive git status |
-| <leader>gc | vim-fugitive git commit |
-| <leader>gu | vim-fugitive git pull |
-| <leader>gp | vim-fugitive git push |
-| <leader>pp | markdown preview in web browser |
-| <leader>= | auto format |
+| `<C-j>` | move down a split |
+| `<C-h>` | move left a split |
+| `<C-l>` | move right a split |
+| `<leader>M` | maximize a split |
+| `<leader>m` | minimize a split |
+| `<leader>ff` | FZF file search cwd |
+| `<leader>fh` | FZF file search ~ |
+| `<leader>fw` | FZF file search ~/Dropbox/wiki/ |
+| `<leader>bb` | FZF buffer search |
+| `<leader>;` | FZF lines search |
+| `<leader>o` | FZF btags search |
+| `<leader>O` | FZF tags search |
+| `<leader>?` | FZF history search |
+| `<leader>jj` | easymotion move to char |
+| `<leader>jl` | easymotion move to line |
+| `<leader>jw` | easymotion move to word |
+| `<leader>gs` | vim-fugitive git status |
+| `<leader>gc` | vim-fugitive git commit |
+| `<leader>gu` | vim-fugitive git pull |
+| `<leader>gp` | vim-fugitive git push |
+| `<leader>pp` | markdown preview in web browser |
+| `<leader>=` | auto format |
