@@ -9,7 +9,7 @@ My Neovim configuration
 
 ## Installation
 1. Copy this **init.vim** to ~/.config/nvim/
-2. Launch Neovim and run `:PlugInstall`
+2. Launch Neovim with `sudo` and run `:PlugInstall`
 3. Close and relaunch Neovim
 
 ## Config Notes
