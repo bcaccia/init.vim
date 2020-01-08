@@ -26,6 +26,7 @@ Keyboard mappings are mostly inspired by Spacemacs.
 | `<leader>q`  | quit  |
 | `<leader>bd`  | close buffer  |
 | `<leader>fs` | save buffer |
+| `<leader>rr` | refresh all buffers |
 | `<leader>fe` | open netrw file browser |
 | `<leader>ve` | open vimrc |
 | `<leader>vr` | reload vimrc |
@@ -55,3 +56,9 @@ Keyboard mappings are mostly inspired by Spacemacs.
 | `<leader>gp` | vim-fugitive git push |
 | `<leader>pp` | markdown preview in web browser |
 | `<leader>=` | auto format |
+
+**Terminal Mode**
+
+| Shortcut  | Description |
+| ------------- | ------------- |
+| `<C-[>`  | exit to normal mode  |
