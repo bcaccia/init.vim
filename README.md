@@ -37,6 +37,10 @@ Keyboard mappings are mostly inspired by Spacemacs.
 | `<C-j>` | move down a split |
 | `<C-h>` | move left a split |
 | `<C-l>` | move right a split |
+| `<C-up>` | resize +5 |
+| `<C-down>` | resize -5 |
+| `<C-left>` | vertical resize +5 |
+| `<C-right>` | vertical resize -5 |
 | `<leader>M` | maximize a split |
 | `<leader>m` | minimize a split |
 | `<leader>ff` | FZF file search cwd |
@@ -47,6 +51,7 @@ Keyboard mappings are mostly inspired by Spacemacs.
 | `<leader>o` | FZF btags search |
 | `<leader>O` | FZF tags search |
 | `<leader>?` | FZF history search |
+| `<leader>ss` | search directory with Ack.vim |
 | `<leader>jj` | easymotion move to char |
 | `<leader>jl` | easymotion move to line |
 | `<leader>jw` | easymotion move to word |
