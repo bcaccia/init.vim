@@ -10,8 +10,12 @@ My Neovim configuration
 
 ## Installation
 1. Copy this **init.vim** to ~/.config/nvim/
-2. Launch Neovim with `sudo` and run `:PlugInstall`
-3. Close and relaunch Neovim
+2. Install the `pynvim` module for python integration using:
+```
+sudo pip install pynvim && sudo pip3 install pynvim
+```
+3. Launch Neovim with `sudo` and run `:PlugInstall`
+4. Close and relaunch Neovim
 
 ## Config Notes
 Folding is used to break the config into sections. If the file is not folded when opened, use the default `zM` shortcut to fold all.
