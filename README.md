@@ -6,6 +6,7 @@ My Neovim configuration
 * [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim): Latest Stable build preferably
 * [vim-plug](https://github.com/junegunn/vim-plug)
 * Python 2/3 and pip2/3 if you are doing Python dev
+* [ack](https://beyondgrep.com/install/)
 
 ## Installation
 1. Copy this **init.vim** to ~/.config/nvim/
