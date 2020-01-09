@@ -53,6 +53,7 @@ Keyboard mappings are mostly inspired by Spacemacs.
 | `<leader>O` | FZF tags search |
 | `<leader>?` | FZF history search |
 | `<leader>ss` | search directory with Ack.vim |
+| `<leader>cl` | open quickfix window |
 | `<leader>jj` | easymotion move to char |
 | `<leader>jl` | easymotion move to line |
 | `<leader>jw` | easymotion move to word |
